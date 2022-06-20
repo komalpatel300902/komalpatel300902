@@ -1,6 +1,6 @@
 ##  Hello My Dear Friends. Overwhelmed to see you here.
 
-I am a Computer Science and Engineering Student at Goverment Engineering College Raipur. Currently I am learning Java and Python.
+I am a Computer Science and Engineering Student at Government Engineering College Raipur.<br> Currently I am learning Java and Python.
 
 ## Language  I Know :
 - Python
@@ -12,4 +12,6 @@ I am a Computer Science and Engineering Student at Goverment Engineering College
 - Android App Development
 - Cyber Security
 
+## Find me around Web:
+ <a href = "https://www.linkedin.com/in/komal-patel-681650204/"><img src = "./linkedIn.png" width = "40"/></a>
 
